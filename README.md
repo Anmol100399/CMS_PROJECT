@@ -2,6 +2,8 @@
 
 This project manages a database of video games, utilizing two tables: `games` and `gameDetails`. The `games` table stores general information about the games, while the `gameDetails` table holds additional details for each game.
 
+The application is accessible online at the following link: [Video Games Database]( http://gamercentralx.rf.gd/)
+
 ## Table Structure
 
 ### 1. `games` Table
